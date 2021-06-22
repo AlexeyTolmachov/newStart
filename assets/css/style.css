@@ -12,6 +12,7 @@ a{
   color: white;
   text-decoration: none;
   width: 100px;
+
 }
 a:hover{
   background-color: rgb(3, 97, 26);
@@ -19,10 +20,12 @@ a:hover{
 .menu-item a {
   display: block;
   padding: 5px 10px; 
+
 }
 p{
   width: 100vw;
   padding-top: 80px; 
+  margin-bottom: 30px ;
 }
  .menu-item {
   float: left;
